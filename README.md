@@ -1,114 +1,31 @@
-# Inácio Ciríaco
-
-[Canal do Youtube](https://www.youtube.com/channel/UC-LNvpcI_XcRjBz2-DLcLiw)
-
-[Perfil do Instagram](https://www.instagram.com/inaciociriaco/)
-
-<div>
-  <!-- Insira aqui o código HTML do seu gráfico -->
-  <canvas id="myChart"></canvas>
-</div>
-
-<style>
-  /* Insira aqui o código CSS para personalizar o gráfico */
-  #myChart {
-    width: 100%;
-    height: 300px;
-  }
-</style>
+# Chega fi cabo a graça, Inácio chegou kkk
 
 ---
 
+<br>
+<div style="pading-left=100px">
 
-<div>
- <!DOCTYPE html>
-<html lang="en">
-<link rel="stylesheet" href="sixth.css" />
+![YcaroBR2803 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanseikkk&show_icons=true&theme=dracula)
+ 
+ </div>
 
-<head>
-    <meta charset="UTF-8" />
-    <title>Modified Project</title>
-</head>
+## Redes sociais
+<br>
 
-<body>
-    <div class="container">
-        <div class="iten" style="--i: @"><i class="fa fa- music"></i></div>
-        <div class="item" style="--t: 1"><i class="fas fa-
-gamepad"></i></div>
-        <div class="item" style="--i: 2"><i class="fa fa-film">
-            </i></div>
-        <div class="item" style="--i: 3"><i class="fa fa-book">
-            </i></div>
-        <div class="item" style="--i: 4"><i class="fa fa-paint-brush"></i></div>
-        <div class="item" style="--i: 5"><i class="fa fa-code">
-                </t>
-        </div>
-        <div class="item" style="--i: 6"><i class="fa fa- camera"></b></div>
-        <div class="iten" style="--i: 7"><i class="fas fa-bicycle"></i></div>
-        <div class="iten" style="--i: 8"><i class="fa fa-plane"></i></div>
-        <div class="iten" style="--i: 9"><i dumbbell></i></div>
-        <div class="item" style="--t: 10"><i class="fas fa- guitar"></i></div>
-        <div class="item" style="--i: 11"><i class="fa fa-
-puzzle-piece"></i></div>
-        <div class="item" style="--t: 12"><i class="fas fa-
-briefcase"></i></div>
-        <div class="iten" style="--i: 13"><i class="fa fa-
-coffee"></i></div>
-        <div class="item" style="--i: 14"><i class="fa fa- utensils"></i></div>
-        <div class="item" style="--t: 15"><i class="fa fa-football-ball"></i></div>
-        <div class="item" style="--t: 16"><i class="fa fa-motorcycle"></i></div>
-        <div class="item" style="--i: 17"><i class="fa fa-tree"></i></div>
-        <div class="iten" style="--i: 18"><i class="fa fa- heart"></i></div>
-        <div class="iten" style="--i: 19"><i class="fa fa- rocket"></i></div>
-        <div class="item" style="--i: 20"><i class="fa fa-umbrella"></i></div>
-    </div>
-</body>
+[![Instagram](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ya_ATaRi)
+<br>
 
-</html>
+### Especialidades
 
+<div style="display: inline_block"><br/> 
 
-
-<style>
-    body {
-        background: #212121;
-    }
-
-    .container {
-        top: 10%;
-        position: absolute;
-        height: 90%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        right: 50%;
-    }
-
-    .item {
-        position: absolute;
-        background-color: transparent;
-        width: calc(var (--i) 2.5vmin);
-        border-radius: 50%;
-        border: .9vmin solid rgb(0, 200, 255);
-        transform-style: preserve-3d;
-        aspect-ratio: 1;
-        transform: rotateX(70deg) translateZ(50px);
-        animation: my-move 4s ease-in-out calc(var(--i) * 0.08s) infinite;
-        box-shadow: 0px 0px 15px rgb(124, 124, 124), inset 0px 0px 15px rgb(124, 124, 124);
-    }
-
-    @keyframes my-move {
-
-        0%,
-        100% {
-            transform: rotateX(70deg) translateZ(50px) translateY(0px);
-            filter: hue-rotate(0deg);
-        }
-
-        50% {
-            transform: rotateX(70deg) translateZ(50px) translateY(-50vmin);
-            filter: hue-rotate(180deg);
-        }
-    }
-</style>
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img alt="PHP" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img alt="Bootstrap" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img alt="Canva" src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
+
+---
+
 
