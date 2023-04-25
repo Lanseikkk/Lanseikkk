@@ -1,4 +1,27 @@
-<!DOCTYPE html>
+# Inácio Ciríaco
+
+[Canal do Youtube](https://www.youtube.com/channel/UC-LNvpcI_XcRjBz2-DLcLiw)
+
+[Perfil do Instagram](https://www.instagram.com/inaciociriaco/)
+
+<div>
+  <!-- Insira aqui o código HTML do seu gráfico -->
+  <canvas id="myChart"></canvas>
+</div>
+
+<style>
+  /* Insira aqui o código CSS para personalizar o gráfico */
+  #myChart {
+    width: 100%;
+    height: 300px;
+  }
+</style>
+
+---
+
+
+<div>
+ <!DOCTYPE html>
 <html lang="en">
 <link rel="stylesheet" href="sixth.css" />
 
@@ -87,3 +110,5 @@ coffee"></i></div>
         }
     }
 </style>
+</div>
+
